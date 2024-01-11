@@ -2,7 +2,7 @@
 public class SimpleCalculator {
     public static void main (String []args)
     {
-        // Decleration
+        // Declaration
         int a;
         int b;
         int sum;

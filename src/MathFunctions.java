@@ -1,3 +1,4 @@
+// Program with Math.pow, Math.PI, Math,sqrt functions
 public class MathFunctions {
     public static void main(String []args) {
         // Math.pow
