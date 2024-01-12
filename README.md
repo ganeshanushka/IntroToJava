@@ -20,4 +20,4 @@ This workshop is tailored for individuals new to programming or those looking to
 
 📢 **Connect with me:**<br>
 Email : anushkag@unc.edu<br>
-Linkedin : ganeshanushka
+Linkedin : www.linkedin.com/in/ganeshanushka
