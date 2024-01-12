@@ -1,6 +1,6 @@
 # Intro to Java Workshop - [Brewing Java](https://docs.google.com/presentation/d/1R472pOGGygU1i91IaFonYTf0hpeNNSbU8H15fsRtMu8/edit#slide=id.gf895c1fca3_0_10)
 
-Brewing Java is a workshop created by Anushka Ganesh for PearlHacks 2024,the annual hackathon at UNC-Chapel Hill dedicated to empowering women in computer science.
+Brewing Java is a workshop created by Anushka Ganesh for [PearlHacks 2024](https://pearlhacks.com), the annual hackathon at UNC-Chapel Hill dedicated to empowering women in computer science.
 
 Welcome to the GitHub repository for the "Intro to Java" workshop, proudly presented at Pearl Hacks 2024! This repository is your one-stop resource for all the materials used in our workshop, designed specifically for beginners eager to dive into the world of Java programming.
 
