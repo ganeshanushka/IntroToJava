@@ -7,7 +7,7 @@ This workshop is tailored for individuals new to programming or those looking to
 
 Feel free to reach out to me with any questions, at any point of time!
 
-💡 **Pre-Workshop setup:** <br>
+# 💡 **Pre-Workshop setup:** <br>
 ***Please complete the following steps <u>before<u> the workshop to ensure a smooth workshop experience***
 **Installing Intellij**
    For Mac -
