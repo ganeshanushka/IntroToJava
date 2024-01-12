@@ -18,7 +18,7 @@ This workshop is tailored for individuals new to programming or those looking to
 3. Experiment with the code examples and complete the exercises.
 4. Use the slide decks and additional resources for revision and further exploration.
 
-📢 **Stay Connected:**
+📢 **Connect with me:**
 
 Email : anushkag@unc.edu
 
