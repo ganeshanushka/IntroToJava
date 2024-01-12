@@ -19,5 +19,7 @@ This workshop is tailored for individuals new to programming or those looking to
 4. Use the slide decks and additional resources for revision and further exploration.
 
 📢 **Stay Connected:**
+
 Email : anushkag@unc.edu
+
 Linkedin : ganeshanushka
