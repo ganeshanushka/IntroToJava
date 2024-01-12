@@ -8,8 +8,8 @@ This workshop is tailored for individuals new to programming or those looking to
 Feel free to reach out to me with any questions, at any point of time!
 
 # 💡 **Pre-Workshop setup:** <br>
-***Please complete the following steps <u>before<u> the workshop to ensure a smooth workshop experience***
-**Installing Intellij**
+***Please complete the following steps <u>before<u> the workshop to ensure a smooth workshop experience***<br>
+**Installing Intellij**<br>
    For Mac -
    1. Navigate to the [JetBrains](https://www.jetbrains.com) website and click on "Developer tools" -> "Intellij IDEA for Education
    2. Click on the download button and open .dmg file after it is downloaded
