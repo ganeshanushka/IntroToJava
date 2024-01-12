@@ -1,4 +1,4 @@
-# Intro to Java Workshop - Pearl Hacks 2024
+# Intro to Java Workshop - [Pearl Hacks 2024](https://pearlhacks2024.com)
 
 Welcome to the GitHub repository for the "Intro to Java" workshop, proudly presented at Pearl Hacks 2024! This repository is your one-stop resource for all the materials used in our workshop, designed specifically for beginners eager to dive into the world of Java programming.
 
