@@ -7,18 +7,28 @@ This workshop is tailored for individuals new to programming or those looking to
 
 Feel free to reach out to me with any questions, at any point of time!
 
+💡 **Pre-Workshop setup:**
+***Please complete the following steps <u>before<u> the workshop to ensure a smooth workshop experience 
+**Installing Intellij**
+   For Mac -
+   1. Navigate to the [JetBrains](https://www.jetbrains.com) website and click on "Developer tools" -> "Intellij IDEA for Education
+   2. Click on the download button and open .dmg file after it is downloaded
+   3. A new window should pop up
+   4. Drag the Intellij IDEA icon to the applications folder
+   5. Go to your applications folder and double click on Intelli IDEA
+  
+   For windows -
+   1. Navigate to the [JetBrains](https://www.jetbrains.com) website and click on "Developer tools" -> "Intellij IDEA for Education
+   2.  Click on the download button and run the .exe file after it is downloaded
+   3.  Follow the installation wizard instructions
+   4.  After installation, launch Intellij IDEA through the desktop shortcut or start menu 
+
 ✨ **What's Inside:**
 - **Tutorial Files:** Step-by-step tutorial documents to guide you through the basics of Java.
 - **Code Examples:** Sample code files demonstrating key concepts in Java.
 - **Exercises:** Practice problems to help you apply what you've learned.
 - **Slide Decks:** Presentation slides used during the workshop for your reference.
 - **Additional Resources:** Curated list of resources to further your learning beyond this workshop.
-
-💡 **How to Use This Repository:**
-1. Clone or download the repository to get access to all the materials.
-2. Follow the tutorials in sequence for a structured learning experience.
-3. Experiment with the code examples and complete the exercises.
-4. Use the slide decks and additional resources for revision and further exploration.
 
 📢 **Connect with me:**<br>
 Email : anushkag@unc.edu<br>
