@@ -30,6 +30,6 @@ Feel free to reach out to me with any questions, at any point of time!
 - **Slide Decks:** Presentation slides used during the workshop for your reference.
 - **Additional Resources:** Curated list of resources to further your learning beyond this workshop.
 
-📢 **Connect with me:**<br>
+# 📢 **Connect with me:**<br>
 Email : anushkag@unc.edu<br>
 Linkedin : www.linkedin.com/in/ganeshanushka
