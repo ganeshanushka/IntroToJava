@@ -2,7 +2,7 @@
 
 Welcome to "Brewing Java", a workshop crafted by Anushka Ganesh for Pearl Hacks 2024, UNC-Chapel Hill's annual hackathon focusing on the empowerment of women in the field of computer science. This GitHub repository serves as a one-stop hub for all the materials utilized in the workshop, designed specifically for beginners eager to dive into the world of Java programming.
 
-🌟 **About the Workshop:**
+🌟 ***About the Workshop:*** <br>
 This workshop is tailored for individuals new to programming or those looking to strengthen their foundational skills in Java. Held at Pearl Hacks 2024, this workshop offers hands-on experience and insightful guidance to kickstart your journey in the world of Java.
 
 ✨ **What's Inside:**
