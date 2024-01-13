@@ -15,13 +15,13 @@ Feel free to reach out to me with any questions, at any point of time!
    2. Click on the download button and open .dmg file after it is downloaded
    3. A new window should pop up
    4. Drag the Intellij IDEA icon to the applications folder
-   5. Go to your applications folder and double click on Intelli IDEA
+   5. Go to your applications folder and double click on Intelli IDEA to ensure it's successful installation
   
    For Windows -
    1. Navigate to the [JetBrains](https://www.jetbrains.com) website and click on "Developer tools" -> "Intellij IDEA for Education
    2.  Click on the download button and run the .exe file after it is downloaded
    3.  Follow the installation wizard instructions
-   4.  After installation, launch Intellij IDEA through the desktop shortcut or start menu 
+   4.  After installation, launch Intellij IDEA through the desktop shortcut or start menu to ensure it's successful installation
 
 # ✨ **Workshop Outline:**
 - **Tutorial Files:** Step-by-step tutorial documents to guide you through the basics of Java.
