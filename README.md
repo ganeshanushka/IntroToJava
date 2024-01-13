@@ -24,11 +24,12 @@ Feel free to reach out to me with any questions, at any point of time!
    4.  After installation, launch Intellij IDEA through the desktop shortcut or start menu to ensure it's successful installation
 
 # ✨ **Workshop Outline:**
-- **Introduction to Java:** Importance and application of Java Programming
-- **Starter Code:** Introduction to basic syntax and using it to code a starter program
-- **Simple Calculator:** Learning the basic arithmetic operations and using it to build a simple calculator
-- **Advanced Calculator:** Learning syntax for taking input and using it to build a fully functional mini calculator
-- **Additional Concepts:** Intoduction to frequently used math functions and relational operators in Java
+- **Introduction to Java:** Importance and application of Java Programming - 5 mins
+- **Starter Code:** Introduction to basic Java syntax and using it to code a starter program - 10 mins
+- **Simple Calculator:** Learning the basic arithmetic operations and using it to build a simple calculator - 15 mins
+- **Advanced Calculator:** Learning syntax for taking input and using it to build a fully functional mini calculator - 15 mins
+- **Additional Concepts:** Intoduction to frequently used math functions and relational operators in Java - 10 mins
+- **Wrap Up:** Answering questions/concerns - 5 mins
 
 # 📢 **Connect with me:**<br>
 Email : anushkag@unc.edu<br>
