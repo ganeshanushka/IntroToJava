@@ -29,7 +29,7 @@ Feel free to reach out to me with any questions, at any point of time!
 - **Simple Calculator:** Learning basic arithmetic operations and using it to build a simple calculator - 15 mins
 - **Advanced Calculator:** Learning syntax for taking input and using it to build a fully functional mini calculator - 15 mins
 - **Additional Concepts:** Intoduction to frequently used math functions and relational operators in Java - 10 mins
-- **Wrap Up:** Answering questions/concerns - 5 mins
+- **Wrap Up:** Answering questions - 5 mins
 
 # 📢 **Connect with me:**<br>
 Email : anushkag@unc.edu<br>
