@@ -34,4 +34,3 @@ Feel free to reach out to me with any questions, at any point of time!
 # 📢 **Connect with me:**<br>
 Email : anushkag@unc.edu<br>
 Linkedin : www.linkedin.com/in/ganeshanushka
->>>>>>> b16cb67eda8852f9f22695a20b1142434e83d7ba
